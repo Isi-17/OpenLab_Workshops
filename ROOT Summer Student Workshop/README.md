@@ -8,4 +8,4 @@ available to conduct data analysis, processing and visualization.
 
 In the `course/notebooks` directory you will find an overview of ROOT 
 and six lessons which explain the most fundamental features and functionalities of ROOT. 
-In the `course/exercises/core` and `course/exercises/extra` you will find the exercises.
+In the `course/exercises/core` and you will find the exercises.
