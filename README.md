@@ -1,5 +1,6 @@
 # OpenLab_Workshops
-Materials from workshops attended during the CERN OpenLab Summer Student programme 2024
+Materials from workshops attended during the [CERN OpenLab Summer Student programme 2024](https://openlab.cern/news/02-jul-2024/2024-cern-openlab-summer-student-programme-has-started-dont-miss-our-lectures)
+
 
 
 This work is licensed under a
