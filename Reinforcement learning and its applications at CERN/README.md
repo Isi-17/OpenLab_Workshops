@@ -1,6 +1,6 @@
 # Introduction to Reinforcement Learning
 
-Find the lecture slides [here](https://docs.google.com/presentation/d/1HObB0NPQuSgOl_n-TKQuEqcC9B6n7Is7avw6WshSIXM) and more information about the lecture [here](https://indico.cern.ch/event/1402869/)
+Find the lecture slides [here](https://docs.google.com/presentation/d/1HObB0NPQuSgOl_n-TKQuEqcC9B6n7Is7avw6WshSIXM) and more information about the lecture [here](https://indico.cern.ch/event/1402869/).
 
 The lecture contains exercises on the following topics:
 
