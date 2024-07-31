@@ -1,2 +1,6 @@
-# olqti-summer-school-2024
+# Quantum Computing courses for students
 This is a repository collecting the pedagogical tutorials of the Basics of Quantum Computing, and Quantum Computing Applications and Use-cases within the CERN openlab summer student lecture programme.
+
+Find more information about the lectures here:
+- Basics of Quantum Computing lecture [here](https://indico.cern.ch/event/1408575/).
+- Quantum Computing Applications and Use-cases [here](https://indico.cern.ch/event/1408578/).
